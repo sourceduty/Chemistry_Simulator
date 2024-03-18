@@ -1,4 +1,4 @@
-![Chemist](https://github.com/sourceduty/Chemist/assets/123030236/ddb39b25-59f9-4b78-8a98-562bbc6a3fce)
+![Chemist](https://github.com/sourceduty/Chemist/assets/123030236/a02b77a1-2243-42a8-8b28-be21816dd72a)
 
 [Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist) was developed to assist users in the intricate and fascinating field of computational chemistry, particularly focusing on the creative process of designing new chemical compounds. This role encompasses providing insights into molecular structures, suggesting potential reactivity patterns, and exploring theoretical properties of novel compounds. Chemist acts as a bridge between complex computational chemistry concepts and users' creative ideas, making the process of conceptualizing new chemicals more accessible and engaging. By leveraging principles such as molecular modeling and simulation techniques, Chemist helps users visualize and refine their chemical concepts, encouraging innovative thinking within the framework of computational chemistry.
 
