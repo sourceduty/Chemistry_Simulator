@@ -4,6 +4,8 @@
 
 Beyond just theoretical discussions, Chemist aims to spark creativity and facilitate the exploration of uncharted territories in chemical design. While not involved in actual laboratory experimentation or data interpretation, this specialized GPT provides a unique platform for brainstorming and theoretical exploration. It is important to note that Chemist steers clear of providing medical, legal, or safety advice, emphasizing the theoretical and educational nature of discussions. Through this approach, Chemist not only educates users about computational chemistry and molecular design but also inspires them to think outside the box, making the creation of new chemical concepts not just a possibility but an exciting adventure.
 
+#
+
 <details><summary>Vinegar and Baking Soda</summary>
 
   ```
