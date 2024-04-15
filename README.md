@@ -71,4 +71,18 @@ When paper and wood are wet, the water content in them needs to be evaporated be
 </details>
 
 ***
+### Related Links
+
+[Chemical Diagnostics](https://chat.openai.com/g/g-Yn1ecDq4f-chemical-diagnostics)
+<br>
+[Cancer Simulation Research](https://chat.openai.com/g/g-rJ2Onux8b-cancer-simulation-research)
+<br>
+[Cancer Science](https://chat.openai.com/g/g-ALM4A85O7-cancer-science)
+<br>
+[Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
+<br>
+[Scientific Method](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method)
+
+
+***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
