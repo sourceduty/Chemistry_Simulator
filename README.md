@@ -46,13 +46,13 @@ This is a simplified example, and the actual process involves much more detail, 
 
  ```
 
-Chemist was asked to rewrite a helpful tip for campers who want to intensify their initial magnesium fire to get a campfire started faster. The original tip is "When using a magnesium fire starter use water to intensify the initial initial flame with care to ensure safety and effectiveness." and Chemist didn't agree. Chemist was also asked about using wet paper and wet wood to cause an intensified fire.
+Chemistrty Simulator was asked to rewrite a helpful tip for campers who want to intensify their initial magnesium fire to get a campfire started faster. The original tip is "When using a magnesium fire starter use water to intensify the initial initial flame with care to ensure safety and effectiveness." and Chemistrty Simulator didn't agree. Chemistrty Simulator was also asked about using wet paper and wet wood to cause an intensified fire.
 
-Chemist's Response:
+Chemistrty Simulator's Response:
 
 When using a magnesium fire starter, avoid blowing directly on the initial magnesium flames to prevent scattering the hot magnesium particles, which can lead to a hazard. Instead, gently fan the air above the flames to encourage the fire to spread to your tinder. Do not add water to the magnesium flames. Water can react violently with burning magnesium, producing hydrogen gas and potentially causing a more intense fire. After igniting the magnesium shavings, carefully add your tinder and kindling, gradually building up the fire.
 
-Chemist's Rationale:
+Chemistrty Simulator's Rationale:
 
 1. Avoiding Water: Magnesium burns at a very high temperature, and adding water can cause a hazardous reaction. Water can decompose, releasing hydrogen gas, which is highly flammable and can lead to an explosion. This reaction is not only dangerous but can also extinguish your fire-starting efforts.
 
@@ -60,11 +60,11 @@ Chemist's Rationale:
 
 3. Building the Fire Safely: Adding tinder and then kindling in small amounts allows you to control the growth of the fire, ensuring it becomes stable and strong enough to last.
 
-Chemist's Note:
+Chemistrty Simulator's Note:
 
 Avoid Using Water: Introducing water to a magnesium fire is a hazardous action and is strongly discouraged. Magnesium burns at a temperature of around 3,100°C (5,610°F), and when water is added to a magnesium fire, it can cause the magnesium to react more violently. This is because magnesium can react with water at high temperatures to produce magnesium oxide and hydrogen gas,  which can lead to an explosion if there's a sufficient concentration and a source of ignition.
 
-Wet Paper and Wood
+Wet Paper and Wood:
 
 When paper and wood are wet, the water content in them needs to be evaporated before they can catch fire, which requires additional energy. This might initially slow down the combustion process because some of the heat from the magnesium fire would be used to evaporate the water. However, once the water is driven off and the temperatures become sufficiently high, the wet paper and wood can also catch fire.
 
