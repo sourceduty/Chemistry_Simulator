@@ -113,37 +113,37 @@ The vast size of chemical space presents significant challenges for researchers 
 
 ![Chemist](https://github.com/sourceduty/Chemistry_Simulator/assets/123030236/f2f269c0-c5b0-4b61-9903-940516e44cda)
 
-Size and Complexity
+#### Size and Complexity
 
 The potential chemical space is enormous, with estimates ranging into the billions or even more unique molecules when considering all possible combinations of atoms and bonds. Handling this immense variety and volume of data is a major computational challenge.
 
-High-dimensional Data
+#### High-dimensional Data
 
 Chemical compounds can be represented in many ways, such as molecular graphs, SMILES strings, or multidimensional vectors in a feature space. Managing and processing this high-dimensional data requires advanced algorithms and significant computational resources.
 
-Sparse Data 
+#### Sparse Data 
 
 Despite the vast size of chemical space, only a tiny fraction of it has been explored and characterized. This sparsity of known data makes it difficult to train predictive models that can reliably extrapolate to unknown regions of chemical space.
 
-Computational Methods
+#### Computational Methods
 
 - Quantum Chemistry Calculations: Accurately predicting the properties of molecules requires quantum mechanical calculations, which are computationally expensive and time-consuming.
 - Machine Learning Models: Machine learning has become a key tool in predicting molecular properties and suggesting potential candidates for synthesis. However, developing models that are both accurate and generalizable across different regions of chemical space is challenging.
 
-Screening and Synthesis Constraints
+#### Screening and Synthesis Constraints
 
 Identifying promising candidates within chemical space for synthesis and testing is non-trivial. Constraints related to the feasibility of synthesis, cost, and the physical properties of materials (like stability and toxicity) must be considered.
 
-Integration of Theoretical and Experimental Data
+#### Integration of Theoretical and Experimental Data
 
 Bridging the gap between theoretical predictions and experimental validations is critical. Theoretical models must be continually updated and refined based on experimental results to improve their predictive accuracy.
 
-Navigational Strategies
+#### Navigational Strategies
 
 - Virtual Screening: Using computational techniques to evaluate large libraries of compounds quickly to identify those with desirable properties.
 - De Novo Design: Generating novel molecular structures from scratch using guided algorithms that optimize for desired properties.
 
-Interdisciplinary Collaboration
+#### Interdisciplinary Collaboration
 
 Effective chemical space exploration often requires collaboration across disciplines, including chemistry, computer science, material science, and biology, to integrate different perspectives and approaches.
 
