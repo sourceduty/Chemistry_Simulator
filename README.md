@@ -95,8 +95,9 @@ The concept of "chemical space" refers to the theoretical array of all possible 
 
 Focus is typically on small organic molecules relevant to pharmaceuticals. The number of possible drug-like molecules is estimated to range from 10^23 to 10^60. These estimates consider combinations of typical organic elements such as carbon, hydrogen, oxygen, and nitrogen in various ring and chain structures up to a certain molecular weight.
 
-10^60 = 100,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000
-10^60 in words is "ten duotrigintillion."
+> 10^60 = 100,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000
+
+> 10^60 in words is "ten duotrigintillion."
 
 2. Extended Chemical Universe
 
