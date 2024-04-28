@@ -164,6 +164,8 @@ Effective chemical space exploration often requires collaboration across discipl
 [Scientific Method](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method)
 <br>
 [PubChem Database](https://pubchem.ncbi.nlm.nih.gov/)
+<br>
+[Experiment Generator](https://chat.openai.com/g/g-CyF0pXfLi-experiment-generator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
