@@ -150,6 +150,10 @@ Effective chemical space exploration often requires collaboration across discipl
 <br>
 </details>
 
+#
+
+![Chemistry](https://github.com/user-attachments/assets/c7fa91ff-baa7-481c-b1de-683b424c1429)
+
 ***
 ### Related Links
 
